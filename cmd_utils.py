@@ -1,3 +1,5 @@
+# Work from: https://www.kaggle.com/c/riiid-test-answer-prediction/discussion/203184
+
 class Colors:
     """Defining Color Codes to color the text displayed on terminal.
     """
